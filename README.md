@@ -1,11 +1,9 @@
 # QR Code Generator (Java)
 
-Générateur de **QR codes** écrit *from scratch* en Java : encodage des données en
-binaire, correction d'erreurs **Reed-Solomon**, construction de la matrice et
-**masquage**, jusqu'à une image PNG scannable.
-
-**Mon projet de BA1 à l'EPFL** (cours CS-107 — *Introduction à la programmation*) :
-le mini-projet 1, un générateur de QR codes, codé en Java sans bibliothèque externe.
+Générateur de **QR codes** en Java implémenté *from scratch* : encodage binaire des
+données, correction d'erreurs **Reed-Solomon**, construction de la matrice et
+**masquage**, jusqu'au PNG scannable. Réalisé en **BA1 à l'EPFL** — mini-projet 1 du
+cours **CS-107** (*Introduction à la programmation*).
 
 ![Exemple de QR code](docs/example.png)
 
