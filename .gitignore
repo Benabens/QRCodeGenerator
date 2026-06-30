@@ -1,0 +1,21 @@
+# Build
+target/
+out/
+bin/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+
+# Generated QR codes at project root
+/qrcode.png
+/*.png
+!docs/*.png
