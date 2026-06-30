@@ -4,8 +4,8 @@ Générateur de **QR codes** écrit *from scratch* en Java : encodage des donné
 binaire, correction d'erreurs **Reed-Solomon**, construction de la matrice et
 **masquage**, jusqu'à une image PNG scannable.
 
-Réimplémentation personnelle, inspirée du *mini-projet 1* du cours **CS-107
-(Introduction à la programmation)** de l'EPFL — code original, sans le squelette du cours.
+**Mon projet de BA1 à l'EPFL** (cours CS-107 — *Introduction à la programmation*) :
+le mini-projet 1, un générateur de QR codes, codé en Java sans bibliothèque externe.
 
 ![Exemple de QR code](docs/example.png)
 
@@ -74,4 +74,5 @@ confirmer qu'ils contiennent bien le texte d'origine et qu'ils sont scannables.
 
 ---
 
-Projet pédagogique / portfolio — implémentation originale du standard ISO/IEC 18004.
+Projet de **BA1 à l'EPFL** (cours CS-107, *Introduction à la programmation*) —
+implémentation du standard QR ISO/IEC 18004, codée from scratch sans bibliothèque externe.
